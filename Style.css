@@ -1,0 +1,58 @@
+.body{
+    background-color:black;
+}
+.Urban{
+    font-size: 3rem;
+    padding-top: 3rem;
+    padding-left: 0.2rem;
+    color:#9ef01a;
+}
+.form{
+    padding-top: 2.5rem;
+    color: whitesmoke;
+    
+}
+h1{
+    color:wheat;
+}
+.jumbotron1{
+    margin-top: 18em;
+    background-color:#212529;
+    color: whitesmoke;
+    
+}
+.display-4{
+    color: whitesmoke;
+    height:10rem;
+    text-align: center;
+    padding-top: 20rem;
+   
+    
+}
+.container3{
+    padding-left: 7rem;
+    padding-top: 7rem;
+}
+
+.navi {
+    font-size: 1.5rem;
+    margin-left: 45rem;
+
+}
+.displayz-3{
+    color: whitesmoke;
+    height:10rem;
+    text-align: center;
+    padding-top:10rem;
+    font-size:4rem;
+}
+.displayz-1{
+    color: #9ef01a;
+    text-align: center;
+    padding-top:6rem;
+    font-size:5rem;
+}
+.header{
+    text-align: center;
+    color:gray;
+}
