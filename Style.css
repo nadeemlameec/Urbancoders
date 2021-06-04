@@ -15,12 +15,7 @@
 h1{
     color:wheat;
 }
-.jumbotron1{
-    margin-top: 18em;
-    background-color:#212529;
-    color: whitesmoke;
-    
-}
+
 .display-4{
     color: whitesmoke;
     height:10rem;
@@ -55,4 +50,5 @@ h1{
 .header{
     text-align: center;
     color:gray;
+    padding-top: 10rem;
 }
